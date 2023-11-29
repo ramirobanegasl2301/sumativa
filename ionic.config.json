@@ -1,0 +1,8 @@
+{
+  "name": "Sumativa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3b33fa70"
+}
